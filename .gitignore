@@ -3,6 +3,7 @@
 *.d.ts
 node_modules
 .env
+used_emails
 
 # CDK asset staging directory
 .cdk.staging
