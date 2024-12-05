@@ -1,0 +1,16 @@
+{
+  "data": {
+    "id": "793647904723435541",
+    "name": "verificar",
+    "options": [
+      {
+        "name": "email_ou_id",
+        "type": 3,
+        "value": "philipegabriel612@gmail.com"
+      }
+    ],
+    "type": 1
+  },
+  "token": "XXXXXX",
+  "type": 2
+}

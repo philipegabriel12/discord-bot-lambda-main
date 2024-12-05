@@ -1,0 +1,15 @@
+- name: verificar
+  description: Verifique a sua conta com o e-mail da compra.
+  options:
+    - name: email_ou_id
+      description: Insira o e-mail da compra para verificação.
+      type: 3 # string
+      required: true
+
+- name: echo
+  description: Echo message back to sender.
+  options:
+    - name: message
+      description: The message to echo back.
+      type: 3 # string
+      required: true
