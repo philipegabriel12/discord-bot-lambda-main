@@ -1,7 +1,5 @@
 # Discord Bot on AWS Lambda
 
-This repo is an example of how to run a Discord bot on AWS Lambda. It uses [Discord Interactions Endpoint](https://discord.com/developers/docs/interactions/application-commands).
-
 The app is built with [Flask](https://flask.palletsprojects.com/) to create a HTTP server.
 The server is hosted on AWS Lambda Docker Container using [AWS CDK](https://aws.amazon.com/cdk/).
 
